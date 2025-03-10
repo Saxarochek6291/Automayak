@@ -430,7 +430,7 @@ body {
   width: 60px;
   height: 15px;
   left: 385px;
-  top: -135px;
+  top: -150px;
 }
 
 .arrow12 {
@@ -464,7 +464,7 @@ body {
   width: 17px;
   height: 34px;
   left: 989px;
-  top: -370px;
+  top: -366px;
   border: 0px solid rgb(196, 196, 196);
 }
 
@@ -473,7 +473,7 @@ body {
   width: 17px;
   height: 34px;
   left: 900px;
-  top: -370px;
+  top: -360px;
   border: 0px solid rgb(196, 196, 196);
 }
 
@@ -491,7 +491,7 @@ body {
   width: 17px;
   height: 34px;
   left: 989px;
-  top: -370px;
+  top: -365px;
   border: 0px solid rgb(196, 196, 196);
 }
 
@@ -759,9 +759,9 @@ body {
 .order4 h1 {
   position: relative;
   width: 185px;
-  height: 30px;
+  height: 50px;
   left: 10px;
-  top: 0px;
+  top: 10px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -1131,7 +1131,7 @@ footer {
   width: 187px;
   height: 30px;
   left: 200px;
-  top: -95px;
+  top: -108px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -1143,7 +1143,7 @@ footer {
   width: 186px;
   height: 30px;
   left: 445px;
-  top: -185px;
+  top: -195px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -1155,7 +1155,7 @@ footer {
   width: 304px;
   height: 30px;
   left: 635px;
-  top: -275px;
+  top: -280px;
   display: flex;
   flex-direction: row-reverse;
   align-items: center;
